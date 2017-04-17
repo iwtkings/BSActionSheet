@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BSActionSheet"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "一个可以高度修改的 ActionSheet"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/wangtongs/BSActionSheet.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/wangtongs/BSActionSheet.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
