@@ -7,6 +7,6 @@ pod 'BSActionSheet'
 ```
 
 接下来执行:
-```ruby
+```aaa
 $ pod install
 ```
