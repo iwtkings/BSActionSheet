@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BSActionSheet"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "一个可以高度修改的 ActionSheet"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "BSActionSheet/*.{h,m}"
+  s.source_files  = "BSActionSheet/BSActionSheet/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
