@@ -1,12 +1,13 @@
 # BSActionSheet
 ## ActionSheet
 
-可以通过pod 的方式进行安装:
+## 安装
+### CocoaPods
 ```ruby
 pod 'BSActionSheet'
 ```
 
-接下来执行:
-```aaa
+### 接下来执行:
+```bash
 $ pod install
 ```
