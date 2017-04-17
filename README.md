@@ -1,5 +1,4 @@
 # BSActionSheet
-## ActionSheet
 
 ## 安装
 ### CocoaPods
@@ -7,7 +6,7 @@
 pod 'BSActionSheet'
 ```
 
-### 接下来执行:
+接下来执行:
 ```bash
 $ pod install
 ```
